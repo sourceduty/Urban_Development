@@ -4,7 +4,7 @@ Artificial intelligence, advanced software programs, and emerging technologies a
 
 #
 
-![Smart City](https://github.com/user-attachments/assets/cd469d73-70b1-4869-90ec-cd3bfc2886a9)
+![Smart City](https://github.com/user-attachments/assets/cdcd94be-6730-43c3-8cb0-2caaecd30063)
 
 [Smart City Agent](https://chatgpt.com/g/g-683ada1cfadc8191ade94bb1b9da7dd5-smart-city-agent) is a command-line utility that delivers real-time, data-driven insights for urban environments, supporting city planners, commuters, developers, and residents in making informed decisions. It aggregates and interprets critical municipal data across a wide range of domains such as weather, traffic, zoning regulations, infrastructure development, and public services. Users can query the system using structured flags (e.g., --weather [city], --traffic [location], --zoning [area_code]) to retrieve up-to-date information like air quality levels, road congestion, water usage, housing trends, and energy consumption metrics. This tool empowers urban stakeholders by providing granular visibility into ongoing city dynamics—ranging from emergency alerts and noise pollution to transit delays and smart sensor data—allowing for better planning, risk mitigation, and resource optimization. Whether for managing daily commutes, aligning construction projects with zoning rules, evaluating green space access, or monitoring citizen feedback and economic activity, the Smart City Agent serves as a powerful, responsive interface for navigating and improving complex city ecosystems.
 
